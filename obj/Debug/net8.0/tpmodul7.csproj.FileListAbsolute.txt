@@ -13,3 +13,4 @@ C:\Users\dhafi\source\repos\tpmodul7\obj\Debug\net8.0\refint\tpmodul7.dll
 C:\Users\dhafi\source\repos\tpmodul7\obj\Debug\net8.0\tpmodul7.pdb
 C:\Users\dhafi\source\repos\tpmodul7\obj\Debug\net8.0\tpmodul7.genruntimeconfig.cache
 C:\Users\dhafi\source\repos\tpmodul7\obj\Debug\net8.0\ref\tpmodul7.dll
+C:\Users\dhafi\source\repos\tpmodul7\bin\Debug\net8.0\tp7_1_2211104018.json
